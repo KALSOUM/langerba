@@ -1,0 +1,165 @@
+body{
+  background-color: #003c5b;s
+}
+ 
+ .navbar-collapse{
+position: relative;
+  list-style-type: : none;
+	display: list-item;
+	
+  }
+
+.navbar-nav li a{
+	position: relative;
+color: #FFFFFF!important;
+
+}
+
+.PAGE1{
+	position: relative;
+	background-position: 50% 100%;
+	top: 0px;
+	height: 700px;
+	width: 100%;
+
+	
+}.PAGE1{
+position: relative;
+ background-color:#003c5b;
+    margin-left: 1rem;
+    right: 0.75em;
+   
+
+ }
+.article{
+    top: 5em;
+    position: relative;
+    color: #FFFFFF;
+    padding-left: 0em;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    display: inline-block;
+    
+}
+p{
+    position: relative;
+    text-align: center;
+    font:10px;
+    top: 0em;
+
+    }
+.btn-primary
+{
+    position: relative;
+  background: #fc8f44 !important;
+  color: #FFFFFF;
+  overflow: hidden;
+  top: 5em!important;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.btn-lg{
+    border: #fc8f44 !important;
+    border-radius: 2rem;
+    line-height: 1.1;
+    letter-spacing: .6px;
+    padding: 1rem 4rem;
+}
+.PAGE2
+{
+position: relative;
+margin: 5%;
+background: #ecf2f9;
+width: 100%;
+margin: 5px;
+top: -4px;
+height: 700px;
+
+
+}
+
+.articl{
+  position: relative;
+  text-align: justify!important;
+  left:-10px;
+  margin: 5%;
+}
+.TOPH
+{
+position: relative;
+top: 50px;
+left: -30px;
+
+}.ECRITE
+{
+  text-align: justify;
+right: 0em;
+top: 5em;
+}
+.btn-primary1{
+
+    position: relative;
+  background: #fc8f44 !important;
+  color: #FFFFFF;
+  overflow: hidden;
+  top: 5em!important;
+  box-sizing: border-box;
+  text-decoration: none;
+
+}
+.PAGE3{
+  position: relative;
+  margin: 5%;
+  top: 50px;
+
+}
+.titre{
+  position: relative;
+  text-align: center;
+  top: -40px;
+}
+.PAGE3 p{
+  position: relative; 
+  text-align: justify;
+}.PAGE4{
+  position: relative;
+  height: 650px;
+  top: 10px;
+}.TOPH2{
+  position: relative;
+  top: 7em;
+
+}.tex {
+  position: relative;
+  top: 7em;
+
+}
+.Pa{
+  position: relative;
+  top: 9em;
+  text-align: justify;
+}.PAGE5{
+  position: relative;
+  height: 400px;
+  text-align: center;
+  color: #FFFFFF;
+
+}
+.btn-primary3{
+  position: relative;
+  background: #fc8f44 !important;
+  color: #FFFFFF;
+  overflow: hidden;
+  top: 5em!important;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.mb-2{
+   border: #fc8f44 !important;
+    border-radius: 2rem;
+    line-height: 1.1;
+    letter-spacing: .6px;
+    padding: 1rem 4rem;
+}
